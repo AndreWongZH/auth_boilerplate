@@ -1,0 +1,10 @@
+### NextJS ###
+# Next build dir
+**/.next/
+
+**/node_modules
+
+**/.env.local
+
+# ignore tmp files
+**/tmp/*
